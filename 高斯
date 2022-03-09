@@ -1,0 +1,17 @@
+#include <stdio.h>
+int main(void)
+{
+/*
+ int x;
+ int y;
+ int z;
+ int h;
+*/
+int x,y,z,h;
+x=1;
+y=100;
+z=100;
+h=(x+y)*z/2
+printf("(1+100)*100/2=%d\n",h);
+return 0
+}
